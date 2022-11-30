@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/image-type-script/static/css/main.7acaea2f.css",
+    "main.js": "/image-type-script/static/js/main.07d3183d.js",
+    "index.html": "/image-type-script/index.html",
+    "main.7acaea2f.css.map": "/image-type-script/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/image-type-script/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
